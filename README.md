@@ -1,5 +1,4 @@
 # Image-Quality-Inspection-Tool-using-AWS
-
 The project acts as a quality inspection tool for machines that automates the process of error 
 detection using Machine Learning and in turn simplifies the error detection mechanism in machines 
 and circuits. 
